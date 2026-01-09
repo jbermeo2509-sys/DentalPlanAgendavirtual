@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#D1C4E9</color> <!-- Lavender Light -->
+    <color name="purple_500">#9575CD</color> <!-- Lavender Medium -->
+    <color name="purple_700">#673AB7</color> <!-- Deep Purple -->
+    <color name="pink_200">#F8BBD0</color> <!-- Pink Light -->
+    <color name="pink_500">#F06292</color> <!-- Pink Medium -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="off_white">#FDFBFD</color> <!-- Soft White with hint of pink -->
+    <color name="black">#FF000000</color>
+    <color name="text_primary">#4A148C</color> <!-- Dark Purple Text -->
+    <color name="text_secondary">#7B1FA2</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="teal_700">#00796B</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#F3E5F5</color> <!-- Very Light Purple -->
+    <color name="gradient_end">#FCE4EC</color> <!-- Very Light Pink -->
+</resources>

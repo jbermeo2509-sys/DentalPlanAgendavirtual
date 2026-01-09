@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1059026962816",
+    "project_id": "dentaldata-a10dd",
+    "storage_bucket": "dentaldata-a10dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059026962816:android:4e6fd18796bb80ba55d965",
+        "android_client_info": {
+          "package_name": "com.example.dentalprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059026962816-fg52ofrl7lq3se0lao61oou7np6lcgpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dentalprueba",
+            "certificate_hash": "eba236920c2f69bc66419f250f4f0b043668b3a4"
+          }
+        },
+        {
+          "client_id": "1059026962816-6ope4c60co1euqmna4nbq67ku6frmq28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDQArnjNtGpfjWrJ5OnqXLrf-iPE3JhwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059026962816-6ope4c60co1euqmna4nbq67ku6frmq28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
